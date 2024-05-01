@@ -1,4 +1,5 @@
 Modify and commit: triggers build (push)
+Modify and add [skip ci] (not triggering the workflow)
 
 # GitHub Actions Fundamentals
 
